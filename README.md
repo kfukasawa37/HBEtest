@@ -8,4 +8,4 @@ R functions for state-space harvest-based estimation in Fukasawa et al. (in revi
 3. Run smooth.hbm() to calculate mean and distribution of population size
 
 [Citation]
-Fukasawa, K., Osada, Y., Iijima, H. (in review) Is harvest size a valid indirect measure of abundance for evaluating the population size of game animals using harvest-based estimation?
+Fukasawa, K., Osada, Y., Iijima, H. (2020) Is harvest size a valid indirect measure of abundance for evaluating the population size of game animals using harvest-based estimation? Wildlife Biology 2020(4). DOI: 10.2981/wlb.00708
