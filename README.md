@@ -1,6 +1,6 @@
 # HBEtest
 
-R functions for state-space harvest-based estimation in Fukasawa et al. (in review).
+R functions for state-space harvest-based estimation in Fukasawa et al. (2020).
 
 [Usage]
 1. Run source("hbmfilter.r")
